@@ -3,12 +3,18 @@ GitHubUser App is an Android Application contains user of GitHub
 
 What i use in this project is :
 
-Intent
-Parcelable
-RecyclerView
-Handler
-API github
-SearchView
-Tab Layout
-Localization
-Loading Indicator
+- Intent
+- Parcelable
+- RecyclerView
+- Handler
+- API github
+- SearchView
+- Tab Layout
+- Localization
+- Loading Indicator
+- ViewModel
+- SQLite Database
+- Alarm Manager
+- Content Provider
+- Notification
+- Settings Preference
