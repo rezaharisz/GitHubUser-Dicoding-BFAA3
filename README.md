@@ -8,6 +8,7 @@ What i use in this project is :
 - RecyclerView
 - Handler
 - API github
+- AsyncHttpClient
 - SearchView
 - Tab Layout
 - Localization
