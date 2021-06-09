@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="title_home">Beranda</string>
+    <string name="detail_activity">Detail Pengguna</string>
+
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="company_name">Company name</string>
+    <string name="settings">Pengaturan</string>
+    <string name="favorites">Favorites</string>
+    <string name="count">100</string>
+    <string name="profile_name">Reza Haris Alfikri</string>
+    <string name="profile_major">Informatics Engineering Student</string>
+    <string name="profile_campus">Stikubank University</string>
+    <string name="profile_email">a3162842@bangkit.academy</string>
+    <string name="profile_phone">+6288228864327</string>
+    <string name="profile_location">Kaligetas, Kecamatan Mijen, Kota Semarang</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="location_name">Location Name</string>
+    <string name="change_languange">Ubah Bahasa</string>
+    <string name="delete_data">Data berhasil dihapus</string>
+    <string name="add_data">Data berhasil ditambahkan</string>
+    <string name="set_languange">SetLanguage</string>
+    <string name="set_lang">Bahasa</string>
+    <string name="choose_lang">Bahasa Indonesia</string>
+    <string name="set_reminder">set_reminder</string>
+    <string name="set_reminder_9am">Atur pengingat pukul 9am</string>
+    <string name="reminder_on">Pengingat menyala</string>
+    <string name="reminder_off">Pengingat mati</string>
+    <string name="reminder_set">Pengingat diatur</string>
+    <string name="reminder_cancel">Pengingat dibatalkan</string>
+    <string name="check_message">Cek aplikasi GitHub anda setiap waktu :)</string>
+    <string name="splash">splash</string>
+    <string name="icon_place">icon place</string>
+    <string name="icon_company">icon company</string>
+</resources>

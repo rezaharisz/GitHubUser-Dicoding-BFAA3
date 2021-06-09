@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+
+    <Preference
+        android:key="@string/set_languange"
+        android:title="@string/set_lang"
+        android:icon="@drawable/ic_translate"
+        android:summary="@string/choose_lang">
+        <intent
+            android:action="android.settings.LOCALE_SETTINGS" />
+    </Preference>
+
+    <SwitchPreferenceCompat
+        android:key="@string/set_reminder"
+        android:title="@string/set_reminder_9am"
+        android:icon="@drawable/ic_alarm"
+        android:summaryOn="@string/reminder_on"
+        android:summaryOff="@string/reminder_off" />
+
+</PreferenceScreen>
